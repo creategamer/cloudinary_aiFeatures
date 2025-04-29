@@ -122,7 +122,7 @@ export default function LandingPage() {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <Image 
-                src="/logo-placeholder.svg" 
+                src="/favicon.ico" 
                 alt="VideoSaaS Logo" 
                 width={30} 
                 height={30} 
